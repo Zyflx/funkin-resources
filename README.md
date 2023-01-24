@@ -31,20 +31,13 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 ## Animation
 - [Phantom Arcade Teaching Animation](https://youtu.be/bLqTpYNZ1C4) - Youtube VOD of PhantomArcade, Funkin' Crew lead, teaching his ways of flash animation
 - [Frames to Symbol Flash Plugin](https://mega.nz/file/2fx1waBD#YJT5ooKfZ4-wjibIEhglRcxsq7QM6f_zx9JjcXLcVx0)
-- [Base game FLAs](https://github.com/FunkinCrew/Funkin/tree/master/art/flashFiles) - FLAs for Friday Night' Funkin from the Github repository
-- [Week 7 Update FLAs](https://twitter.com/PhantomArcade3K/status/1521540912421257218?t=d-5HJP_pckMFDngInzoOzQ&s=19) - FLAs for the week 7 update including the stage, Tankman and the cutscenes 
 
 ## Composing
 - [Stems & Chromatic Scales](https://drive.google.com/drive/folders/1XndrqjB48K3HTj0V3l0HSUGtCttRfiH9) - Officially released stems of Friday Night Funkin' music by Kawaisprite
 - [How to Mimic Boyfriend's Voice](https://youtu.be/YOrC9uQiK00)
-- [Writing Vocal Duets - LongestSoloEver](https://www.youtube.com/watch?v=nDPpO4fLiAM) - A beginner-friendly guide to writing duets in a Friday Night Funkin' song
-- [6 Reasons your FNF Music Sucks - LongestSoloEver](https://www.youtube.com/watch?v=kela6mWtIlU) - Common mistakes when writing songs for FNF. Also a bit of hyperbole along the way.
-- [FNF Music Tutorial Playlist - LongestSoloEver](https://www.youtube.com/playlist?list=PLfb6KneL63QsQ58tj-RkDCHRmheAofPJj) - A playlist with all of LongestSoloEver's guides to writing FNF music (except the 2 listed above for some reason.) 
-
 - Chromatic Scale Guides
   - [How to MAKE CHROMATICS (Friday Night Funkin) - bbpanzu](https://www.youtube.com/watch?v=a7SGu1fNthc)
   - [EASY FNF chromatic guide! (Friday Night Funkin') - StickyBM](https://youtu.be/PlSh_LJwQD0)
-  - [How to make FNF Chromatics in Ableton - LongestSoloEver](https://www.youtube.com/watch?v=QCA6-N-pW_0)
 
 ## Programming
 ### Engines
@@ -56,7 +49,6 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Funkin' Android](https://github.com/luckydog7/Funkin-android) - A fork of the game with controls and optimizations allowing it to be played on Android devices.
 - [PSXFunkin](https://github.com/cuckydev/PSXFunkin) - A Playstation 1 de-make in C/C++
 
-
 ### Haxe/HaxeFlixel Resources
 - [Haxe introduction](https://haxe.org/manual/introduction.html)
 - [HaxeFlixel snippets](https://snippets.haxeflixel.com/)
@@ -67,9 +59,11 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400)
 
 ### Haxe/HaxeFlixel Resources
-- [Haxe introduction](https://haxe.org/manual/introduction.html) - Introductory Haxe documentation
-- [HaxeFlixel snippets](https://snippets.haxeflixel.com/) - Snippets of HaxeFlixel code with live demos to explain their functionality 
-- [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/) - Series of code examples and mini tutorials for common uses of HaxeFlixel 
+- [Haxe introduction](https://haxe.org/manual/introduction.html) - New to haxe? Start here!
+- [HaxeFlixel snippets](https://snippets.haxeflixel.com/) - Want to learn more about haxeflixel and it's features?
+  This is a good place to start!
+- [HaxeFlixel Cheat Sheet](https://haxeflixel.com/documentation/cheat-sheet/) - Need help on making classes and other things in haxeflixel?
+This is a good place to look!
 
 ### Visual Studio Code
 - [Enable VSCode Debug Tools](https://twitter.com/EliteMasterEric/status/1535814918917734400)
@@ -77,7 +71,6 @@ Unsure what to contribute? Check out the `good first issue` [tagged Github issue
 ## Modding
 - [GameBanana](https://gamebanana.com/games/8694) - GameBanana hosts a buncho damn mods and stuff
 - [Gamejolt](https://gamejolt.com/c/fnf) - Another highly used host for mods.
-- [Funkipedia Mods Wiki](https://fridaynightfunking.fandom.com/wiki/Funkipedia_Mods_Wiki) - Information about most mods for FNF.
+- [Funkipedia Mods Wiki](https://fridaynightfunking.fandom.com/wiki/Funkipedia_Mods_Wiki)
 - [/funkg/pedia](https://funkinchan.club/wiki/Main_Page) - /funkg/ Mod wiki
 - [Psych Engine Mod Installing Tutorial](https://youtu.be/S-vC_kaWLPo) - Simple tutorial to install Psych Engine mods
-- [LongestSoloEver's Modding Tutorials](https://www.youtube.com/playlist?list=PLfb6KneL63QuD0T0lolMvkQPQM7ZPjy9n) - A series of tutorials going over how to make mods in its entirety.
